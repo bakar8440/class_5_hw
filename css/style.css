@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+#circle{
+    color: white;
+    text-align: bottom;
+    font-size: 40px ;
+    background-color:black ;
+    border-radius: 250%;
+    height: 300px;
+    width: 300px;
+    border: 70px dashed greenyellow;
+}
+
+h1{
+    color: rgb(30, 17, 150);
+    background-color: rgb(247, 145, 20);
+}
+
+p{
+    font-size: 35px;
+    color:black;
+    text-align: center;
+    background: url(../img/sea.jpg);
+    background-size: cover;
+    border-radius: 50px 90px;
+    border: 20px;
+    margin: 30px 40px 60px 70px;
+    padding: 50px;
+}
+
+#st{
+    color:red;
+    text-align: center;
+    background: url(../img/st\ martin3.jpg);
+    background-size: 50%;
+    background-repeat: no-repeat;
+    border-radius: 250%;
+    border: 15px dotted blue;
+}
+
+#fishing{
+    background: url(../img/st\ martin2.jpg);
+    background-size: cover;
+    background-position: 50% center;
+    background-attachment: scroll;
+    box-sizing: content-box;
+    box-shadow: 15px 30px #370D43;
+}
+
+.martin{
+    color: white;
+    background: url(../img/st\ martin1.jpg);
+    background-size: cover;
+    background-attachment:fixed;
+    border-radius: 60px;
+    border: 10px solid black;
+}
